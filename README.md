@@ -1,1 +1,1 @@
-# coronaAwareness
+# simple_web_page
